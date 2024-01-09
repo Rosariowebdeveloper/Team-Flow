@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600;700&display=swap');
+
+
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+::selection {
+    color: #1ded06;
+    background-color: #ffd54b;
+}
+
+/*home*/
+
+#home {
+    margin-top: 20px;
+
+    min-height: 100vh;
+
+}
+
+
+.gop .btn1 {
+
+    background-color: #ffff;
+    width: 50%;
+}
+
+.gop .btn2 {
+    background-color: #FFCA1D;
+    width: 100%;
+
+}
+
+.box1 {
+    background-color: #ffff;
+    height: 10%;
+    width: 40%;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+
+
+.main-box .btn3 {
+    background-color: #FFCA1D;
+    width: 20%;
+}
+
+
+/*home*/
+
+
+.spain {
+
+    color: #ffd54b;
+
+}
